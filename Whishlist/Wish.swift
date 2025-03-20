@@ -9,7 +9,7 @@ import Foundation
 import SwiftData
 
 @Model
-class WhishModel {
+class Wish {
     var title: String
 
     init(title: String) {
